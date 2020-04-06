@@ -29,7 +29,7 @@ Also, find a sample of a repository creation extension point in this [GitHub pul
 
 ## Hubs and hub groups
 
-Hubs and hub groups are the primary navigation elements in Azure DevOps. Files, Releases Backlog, and Queries are examples of hubs. A hub belongs to a hub group. The Files hub, for example, belongs to the project-level Code hub group. Hub groups can exist at the organization (also known as a collection) level or the project level, but most extensions contribute to the project level.
+Hubs and hub groups are the primary navigation elements in Azure DevOps. Files, Releases Backlog, and Queries are examples of hubs. A hub belongs to a hub group. The Files hub, for example, belongs to the project-level Repos hub group. Hub groups can exist at the organization (also known as a collection) level or the project level, but most extensions contribute to the project level.
 
 ### Targetable hub groups
 
